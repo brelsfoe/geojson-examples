@@ -4169,8 +4169,10 @@
       "type": "Feature",
       "id": "4134330035",
       "properties": {
-        "vacant_sites": true,
-        "area": 0.067
+        "vacant_sites": "true",
+        "area": 0.067,
+        "marker-size": "large",
+        "marker-color": "#0f0"
       }
     },
     {

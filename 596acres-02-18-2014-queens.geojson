@@ -478,7 +478,8 @@
       "id": "4159650099",
       "properties": {
         "vacant_sites": true,
-        "area": 0.082
+        "area": 0.082,
+        "organizing_sites": ""
       }
     },
     {
@@ -493,7 +494,8 @@
       "id": "4101610003",
       "properties": {
         "vacant_sites": true,
-        "area": 0.112
+        "area": 0.112,
+        "organizing_sites": ""
       }
     },
     {
@@ -7349,6 +7351,33 @@
       "properties": {
         "public_accessed_sites": true,
         "area": 0.098
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.76358032226562,
+              40.73971363429379
+            ],
+            [
+              -73.74710083007812,
+              40.73086864241804
+            ],
+            [
+              -73.77044677734375,
+              40.72644570551446
+            ],
+            [
+              -73.76358032226562,
+              40.73971363429379
+            ]
+          ]
+        ]
       }
     }
   ]
